@@ -1,6 +1,6 @@
 This is the original RMG software that is written by Todd Borrowman at UIUC. 
-In order to run this software you need a RMG receiver. 
-Manual and Data folder contains manual written by Todd and hardware diagram,
-and past test data. 
-Please refer to wiki for the installation and how to run the software. 
+In order to run this software you need a RMG receiver. Manual and Data folder contains manual written by Todd and hardware diagram,
+and past test data. Please refer to wiki for the installation and how to run the software. 
+You can run 4 channel independently after you installed GNU radio and connect to hardware. 
+However, both software needs RMG receiver to run. 
 
