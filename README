@@ -1,4 +1,6 @@
 This is the original RMG software that is written by Todd Borrowman at UIUC. 
-In order to run this software you need additional file and RMG receiver. 
-Please refer to wiki for the installation. 
+In order to run this software you need a RMG receiver. 
+Manual and Data folder contains manual written by Todd and hardware diagram,
+and past test data. 
+Please refer to wiki for the installation and how to run the software. 
 
